@@ -2,7 +2,7 @@
 body{
     text-align: center;
     align-items: center;
-    background-image:url("fon-hearts.gif");
+    background-image:url("https://i.pinimg.com/originals/39/2a/1b/392a1b1c485e2797074b9b62d8be514a.gif");
     display: flex;
     flex-flow: column wrap;
 }
