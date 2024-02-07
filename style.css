@@ -5,7 +5,9 @@ body{
     display: flex;
     flex-flow: column wrap;
 }
-.animation { background: #eee url("https://i.pinimg.com/originals/39/2a/1b/392a1b1c485e2797074b9b62d8be514a.gif") no-repeat left top;
+.animation { 
+    background: #eee url("https://i.pinimg.com/originals/39/2a/1b/392a1b1c485e2797074b9b62d8be514a.gif") no-repeat left top;
+}
 
 h2 {
     font-family: "Times New Roman", Helvetica, sans-serif;
