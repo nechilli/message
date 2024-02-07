@@ -6,7 +6,7 @@ body{
     flex-flow: column wrap;
 }
 .animation { 
-    background: #eee url("https://i.pinimg.com/originals/2e/b9/ce/2eb9ce82d8b118a9e5c7197d10453cdf.gif") no-repeat left top;
+    background: #eee url("https://i.pinimg.com/originals/2e/b9/ce/2eb9ce82d8b118a9e5c7197d10453cdf.gif");
 }
 
 h2 {
